@@ -5,9 +5,6 @@
 
 `$ react-native run-ios`
 
-## Guide
-[Medium Article Here](https://medium.com/@jamesmarino/getting-started-with-react-native-and-firebase-ab1f396db549)
-
 ## Screen Shots
 
 ![Screenshot 1](http://i.imgur.com/bFKhOga.png "Screenshot 1")
